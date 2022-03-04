@@ -1,0 +1,200 @@
+/* ***********Navbar CSS Start********** */
+.navbar-brand-logo{
+    position: relative;
+    width: 20%;
+    padding: 10px;
+}
+
+.navbar a{
+   font-weight: bold;
+   margin-right: 50px;
+
+}
+
+.navbar-signin-button{
+    border-radius: 33px;
+    width: 100px;
+}
+
+nav ul{
+    float:right;
+}
+
+/* ***********Navbar CSS End********** */
+
+
+/* ***********Banner CSS Start********** */
+.banner-section h5{
+ color: red;
+}
+
+.banner-section h6{
+    color:dimgray;
+    font-weight:0.9rem;
+}
+
+.banner-section h1{
+    font-weight: bolder;
+    font-size:50px;
+}
+.banner-section img{
+    margin-bottom: 100px;
+}
+
+#banner-title-text{
+    color: rgb(53, 211, 53);
+}
+
+.banner-get-start-button{
+    border-radius: 25px;
+    width: 155px;
+    height: 40px;
+    margin-top: 40px;
+}
+
+.banner-section{
+    margin-top: 65px;
+}
+
+.navbar-banner-background{
+   background-color: #F0FFF0; 
+}
+
+/* ***********Banner CSS End********** */
+
+
+
+/* ************Categories Started********* */
+.categories{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.categories h5{
+    font-weight: bold;
+}
+
+.cat1, .cat2, .cat3,.cat4{
+    padding : 50px 30px;
+    border-radius: 10px;
+}
+
+.cat1{
+    background-color:#F0FFF0;
+}
+.cat2{
+    background-color:white;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.cat3{
+    background-color:#F0FFF0;
+}
+.cat4{
+    background-color:#F0FFF0;
+}
+
+.categories img{
+    width: 66px;
+    height: 85px;
+    padding-bottom: 20px;
+}
+.d-flex{
+    margin: 10px;
+}
+/* ************Categories End************* */
+
+
+/* ************Online Courses Start************* */
+.online-course h1{
+    text-align: center;
+    font-weight: bolder;
+    margin: 50px;
+}
+
+.card-photo{
+    width: 95%;
+   padding-top: 20px;
+   padding-left: 20px;
+}
+
+.card{
+    border: none;
+    border-radius: 22px;
+    box-shadow: 5px 5px 10px whitesmoke;
+}
+
+.card h4{
+    font-weight: bold;
+}
+
+.card h6{
+   color: dimgray;
+   margin-bottom: 25px;
+}
+
+.card button{
+    border-radius: 33px;
+    padding: 5px 20px;
+}
+
+.card-footer .calender,.people{
+    position: absolute;
+    width:24px;
+    width: 24px;
+}
+
+.card-footer-left p{
+    margin-left: 30px;
+}
+
+.card-footer-right p{
+    margin-left: 30px;
+}
+
+.card-footer{
+    border: none;
+    background-color: white;
+}
+
+.online-course{
+    margin-bottom: 80px;
+}
+/* ************Online Courses End************* */
+
+
+/* <!-- Testimonial people say CSS Satrted --> */
+.people-area h1{
+    text-align: center;
+    font-weight: bolder;
+    margin: 30px;
+}
+.people-area p{
+    margin-left: 30px;
+}
+.people-area img{
+    width: 15%;
+}
+
+.people-area{
+    margin-bottom: 80px;
+}
+/* <!-- Testimonial people say CSS End --> */
+
+/* **********Footer Started********* */
+footer{
+    background-color: #282531;
+    color: white;
+    text-align: center;
+}
+.row p{
+    margin-top: 30px;
+    color: rgb(224, 218, 218);
+}
+.all-row-element{
+    margin-bottom: 40px;
+}
+#footer-align-title{
+    font-weight: bold;
+    color: white;
+}
+/* **********Footer End************* */
