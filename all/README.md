@@ -76,8 +76,6 @@
 5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
 </details>
 
-<details>
-
 
 
 ## 📢 Vanilla Javascript Projects
