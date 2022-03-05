@@ -106,6 +106,7 @@
 ![ss](https://github.com/azmir849/complete-js/raw/master/all/Only%20Vanila%20JavaScript/AhNaeem-Bank/images/login.png?raw=true)
 </details>
 
+<details>
 <summary>Quote Generator</summary>
 
 1. Live Demo: https://quote-generator-vanilla-js-azmir.vercel.app/
