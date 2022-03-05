@@ -1,8 +1,11 @@
 # 🖐 Hi , I am [MD. AZMIR HOSSEN](https://azmir-portfolio.netlify.app/)
 
-### Here are some ideas about me
+
+<!-- ### Here are some ideas about me -->
 - 🌱 I'm a **Jr. React JS Developer** at Fairsoft.
 - 📫 My Portfolio: [MD. AZMIR HOSSEN](https://azmir-portfolio.netlify.app/)
+
+
 
 
 ## 🚀 Connect with me
@@ -11,6 +14,8 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azmir849)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.azmir.cse@gmail.com
 )
+
+
 
 
 ## 💻 Languages and Tools:
@@ -25,7 +30,7 @@
 
 [![Next Badge](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=nextjs&logoColor=61DAFB)](https://github.com/azmir849)
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/azmir849)
-[![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]https://github.com/azmir849)
+[![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/azmir849)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/azmir849)
 [![Styled Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://github.com/azmir849)
 [![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/azmir849)
