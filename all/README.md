@@ -88,6 +88,15 @@
 ![ss](https://github.com/azmir849/complete-js/raw/master/all/Only%20Vanila%20JavaScript/Pin%20Matcher/image/generate%20pin.png?raw=true)
 </details>
 
+<details>
+<summary>Hard Rock (Music lyrics search)</summary>
+
+1. Live Demo: https://hard-rock-music-lyrics-search-azmir.vercel.app/
+2. Github Code: https://github.com/azmir849/hard-rock-assignment
+3. Technology : Vaniila JS
+![ss](https://github.com/azmir849/complete-js/raw/master/all/Only%20Vanila%20JavaScript/Hard%20Rock/images/get%20son%20lyrics.png?raw=true)
+</details>
+
 
 
 
