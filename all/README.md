@@ -84,7 +84,7 @@
 
 1. Live Demo: https://pin-matcher-azmir.vercel.app/
 2. Github Code: https://github.com/azmir849/complete-js/tree/master/all/Only%20Vanila%20JavaScript/Pin%20Matcher
-3. Technology : Vaniila JS
+3. Technology : Vanilla JS
 ![ss](https://github.com/azmir849/complete-js/raw/master/all/Only%20Vanila%20JavaScript/Pin%20Matcher/image/generate%20pin.png?raw=true)
 </details>
 
@@ -93,7 +93,7 @@
 
 1. Live Demo: https://hard-rock-music-lyrics-search-azmir.vercel.app/
 2. Github Code: https://github.com/azmir849/hard-rock-assignment
-3. Technology : Vaniila JS
+3. Technology : Vanilla JS
 ![ss](https://github.com/azmir849/complete-js/raw/master/all/Only%20Vanila%20JavaScript/Hard%20Rock/images/get%20son%20lyrics.png?raw=true)
 </details>
 
@@ -102,9 +102,16 @@
 
 1. Live Demo: https://ah-naeem-bank-azmir.vercel.app/
 2. Github Code: https://github.com/azmir849/AhNaeem-Bank
-3. Technology : Vaniila JS
+3. Technology : Vanilla JS
 ![ss](https://github.com/azmir849/complete-js/raw/master/all/Only%20Vanila%20JavaScript/AhNaeem-Bank/images/login.png?raw=true)
 </details>
 
+<summary>Quote Generator</summary>
+
+1. Live Demo: https://quote-generator-vanilla-js-azmir.vercel.app/
+2. Github Code: https://github.com/azmir849/quote-generator-vanilla-js
+3. Technology : Vanilla JS
+![ss](https://github.com/azmir849/complete-js/raw/master/all/Only%20Vanila%20JavaScript/Quotes%20generator/images/main.png?raw=true)
+</details>
 
 
