@@ -68,14 +68,20 @@
 
 ## 📢 MERN Stack Projects
 <details>
-<summary>MERN Stack TODO App</summary>
+<summary>E-Shopper (E-commerce app)</summary>
   
-1. MERN Stack TODO Client : https://github.com/azmir849/MERN-Stack-Todo-Client
-2. MERN Stack TODO Live Link :https://.vercel.app/
-3. MERN Stack TODO Server Link: https://github.com/azmir849/MERN-Stack-Todo-Server
-5. Technologies: React JS, Node JS, Express JS, MongoDB, Tailwind CSS etc...
+1. MERN Stack E-Shopper Client : https://github.com/azmir849/E-Saviing
+2. MERN Stack E-Shopper Server Link: https://github.com/azmir849/E-Saviing
+3. Technologies: React JS, Node JS, Express JS, MongoDB.
 </details>
-
+<details>
+<summary>Creative Agency</summary>
+  
+1. MERN Stack Creative Agencyr Live : https://creative-agency-9d2a4.web.app/
+2. MERN Stack Creative Agencyr Client : https://github.com/azmir849/creative-agency
+3. MERN Stack Creative Agency Server Link: https://github.com/azmir849/creative-agency-server
+4. Technologies: React JS, Node JS, Express JS, MongoDB.
+</details>
 
 
 ## 📢 Vanilla Javascript Projects
