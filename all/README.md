@@ -65,6 +65,14 @@
 ![ss](https://github.com/azmir849/React-hook-pizza-app/blob/master/src/images/react-hook-pizza-app.png?raw=true)
 </details>
 
+<details>
+<summary>Fairsoft Landing Page</summary>
+
+1. Live Demo   : http://www.fairsoft.tech/
+2. Technology  : ReactJS,Email Js, AOS Animation,Count up etc..
+![ss](https://github.com/azmir849/React-hook-pizza-app/blob/master/src/images/react-hook-pizza-app.png?raw=true)
+</details>
+
 
 
 ## 📢 MERN Stack Projects
