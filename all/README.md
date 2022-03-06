@@ -59,8 +59,9 @@
 <details>
 <summary>React Hook Pizza App</summary>
 
-1. Live Demo : https://react-hook-pizza-app-azmir.vercel.app/
-2. Technology : ReactJS,React style components,Responsive
+1. Live Demo   : https://react-hook-pizza-app-azmir.vercel.app/
+2. Technology  : ReactJS,React style components,Responsive
+3. Github Repo : https://github.com/azmir849/React-hook-pizza-app
 ![ss](https://github.com/azmir849/React-hook-pizza-app/blob/master/src/images/react-hook-pizza-app.png?raw=true)
 </details>
 
