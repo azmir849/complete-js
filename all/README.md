@@ -57,11 +57,11 @@
 
 ## 📢 React Projects
 <details>
-<summary>CortexLink School Website</summary>
+<summary>React Hook Pizza App</summary>
 
-1. Live Demo : https://cortexlink-react.vercel.app/
-2. Technology : ReactJS,Tailwind CSS, Material UI,Ploty
-![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png)
+1. Live Demo : https://react-hook-pizza-app-azmir.vercel.app/
+2. Technology : ReactJS,React style components,Responsive
+![ss](https://github.com/azmir849/React-hook-pizza-app/blob/master/src/images/react-hook-pizza-app.png?raw=true)
 </details>
 
 
